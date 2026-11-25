@@ -1,16 +1,10 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE4EC,40:E1BEE7,100:D1C4E9&height=190&section=header&text=Momina%20Haroon&fontSize=48&fontColor=75458A&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%26%20ML%20Enthusiast&descSize=16&descColor=75458A&descAlignY=60"/>
-
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=30&duration=2500&pause=1000&color=B565A7&center=true&vCenter=true&width=600&height=65&lines=Hi%2C+I+am+Momina+%F0%9F%92%97;Welcome+to+my+GitHub+%F0%9F%8C%B8;AI+%26+ML+Enthusiast+%F0%9F%A6%8B" alt="Hi, I am Momina"/>
 
-<br/>
+### 🌷 Software Engineer | AI & ML Enthusiast
 
 <img src="./assets/momina-coding-girl.png" width="80%" alt="Momina coding girl"/>
-
-### 🌷 Software Engineer | AI & ML Enthusiast
 
 <a href="https://github.com/MominaKhan000">
 <img src="https://img.shields.io/badge/GitHub-BB86FC?style=for-the-badge&logo=github&logoColor=white"/>
@@ -57,11 +51,11 @@ Hi! I'm **Momina Haroon**, a Software Engineering student who loves technology, 
 
 ### 🌷 AI & Machine Learning
 
-<img src="https://img.shields.io/badge/Artificial_Intelligence-FCE4EC?style=for-the-badge&labelColor=FCE4EC&color=E1BEE7"/>
-<img src="https://img.shields.io/badge/Machine_Learning-E1BEE7?style=for-the-badge&labelColor=E1BEE7&color=D1C4E9"/>
-<img src="https://img.shields.io/badge/Deep_Learning-F3E5F5?style=for-the-badge&labelColor=F3E5F5&color=CE93D8"/>
-<img src="https://img.shields.io/badge/LLMs-F8BBD0?style=for-the-badge&labelColor=F8BBD0&color=E1BEE7"/>
-<img src="https://img.shields.io/badge/Ollama-EDE7F6?style=for-the-badge&labelColor=EDE7F6&color=B39DDB"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-FCE4EC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-E1BEE7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep_Learning-F3E5F5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-F8BBD0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-EDE7F6?style=for-the-badge"/>
 
 </div>
 
@@ -120,8 +114,6 @@ Thank you for visiting my little corner of GitHub! 🦋
 <a href="https://github.com/MominaKhan000">Visit My GitHub 💜</a>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE4EC,40:E1BEE7,100:D1C4E9&height=120&section=footer"/>
 
 
 
