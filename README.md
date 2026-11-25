@@ -65,7 +65,7 @@ Hi! I'm **Momina Haroon**, a Software Engineering student who loves technology, 
 
 <h2 align="center">🦋 My Featured Projects 🦋</h2>
 
-### 🌸 01. Recoverly – AI Lost & Found Platform
+### 🌸 01. Recoverly
 
 An AI-powered platform that helps people find lost belongings using image matching and location-based search.
 
