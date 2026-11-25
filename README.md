@@ -1,114 +1,121 @@
-
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,50:5A189A,100:9D4EDD&height=190&section=header&text=Momina%20Haroon&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%26%20ML&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,40:3C096C,100:7B2CBF&height=180&section=header&text=Momina%20Haroon&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20%26%20ML&descSize=16&descAlignY=60"/>
 
-<img src="./assets/momina-coding-girl.png" width="85%" alt="Dark purple coding girl aesthetic"/>
+<br/>
 
-# ✦ Hi, I'm Momina Haroon 🖤
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=bold&size=30&duration=2500&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+Momina+%F0%9F%92%9C;Welcome+to+my+GitHub+%F0%9F%8C%B8;Dreaming+in+Purple+%26+Coding+in+Python"/>
 
-### Software Engineering Student | AI & ML Enthusiast
+### 🦋 Software Engineer | AI & ML Enthusiast
 
-<p>
-<a href="https://github.com/MominaKhan000">
-<img src="https://img.shields.io/badge/GitHub-5A189A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/momina-haroon-3a406a342">
-<img src="https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:haroonmomina09@gmail.com">
-<img src="https://img.shields.io/badge/Email-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+<img src="./assets/momina-coding-girl.png" width="80%" alt="Momina's purple coding aesthetic"/>
 
-<img src="https://komarev.com/ghpvc/?username=MominaKhan000&label=PROFILE+VIEWS&color=7B2CBF&style=flat-square"/>
+<br/>
+
+<a href="https://github.com/MominaKhan000"><img src="https://img.shields.io/badge/GitHub-3C096C?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/momina-haroon-3a406a342"><img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:haroonmomina09@gmail.com"><img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=MominaKhan000&label=Beautiful+Visitors&color=7B2CBF&style=flat-square"/>
 
 </div>
 
 ---
 
-## 🖤 ABOUT ME
+<h2 align="center">🌸 About Me 🌸</h2>
 
-Hello! I'm **Momina Haroon**, a Software Engineering student passionate about technology, creativity and innovation.
+Hello! I'm **Momina Haroon**, a Software Engineering student who loves technology, creativity and innovation.
 
 - 🎓 Software Engineering – Iqra University
 - 💜 Interested in Artificial Intelligence and Machine Learning
 - 🐍 Exploring Python and Deep Learning
-- 🤖 Interested in Large Language Models (LLMs)
-- 🧠 Exploring AI Agents and Automation
-- ✨ Learning new technologies and building creative projects
+- 🤖 Passionate about LLMs and AI Agents
+- 🌙 Building intelligent and creative projects
+- 🦋 Always learning something new
 
 ---
 
-## 💻 TECH STACK
+<h2 align="center">✿ My Tech Garden ✿</h2>
 
 <div align="center">
 
-### Programming Languages
+**🌷 Programming Languages**
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js&theme=dark"/>
 
-### Tools & Technologies
+**🪻 Development Tools**
 
 <img src="https://skillicons.dev/icons?i=react,mysql,git,github,vscode,linux&theme=dark"/>
 
-### AI & Machine Learning
+**💜 AI & Machine Learning**
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-3C096C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-5A189A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-7B2CBF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-9D4EDD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ollama-240046?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-240046?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-3C096C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep_Learning-5A189A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-7B2CBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-9D4EDD?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🚀 FEATURED PROJECTS
+<h2 align="center">🌺 My Featured Projects 🌺</h2>
 
-### 💜 Recoverly – AI Lost & Found Platform
+### 🦋 01. Recoverly – AI Lost & Found Platform
 
-An AI-powered lost and found platform that uses image matching and location-based search to help people find lost belongings.
+An AI-powered platform that helps people find lost belongings using image matching and location-based search.
 
-### 🖤 NavLab – Robot Navigation & LLM Benchmarking
+### 🌙 02. NavLab – Robot Navigation & LLM Benchmarking
 
 A project focused on robot navigation and benchmarking open-source LLMs for system-level tasks.
 
-### ✦ AI Agent Projects
+### 🌸 03. AI Agent Projects
 
 Exploring intelligent AI agents that automate tasks using open-source language models.
 
 ---
 
-## 📊 GITHUB STATISTICS
+<h2 align="center">🌷 My GitHub Flower Garden 🌷</h2>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MominaKhan000&show_icons=true&bg_color=0D001A&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF&border_color=5A189A"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MominaKhan000&show_icons=true&hide_border=true&bg_color=10002B&title_color=E0AAFF&icon_color=C77DFF&text_color=EDE0FF&ring_color=9D4EDD" width="95%"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MominaKhan000&layout=compact&bg_color=0D001A&title_color=C77DFF&text_color=E0AAFF&border_color=5A189A"/>
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MominaKhan000&layout=compact&hide_border=true&bg_color=10002B&title_color=E0AAFF&text_color=EDE0FF" width="75%"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=MominaKhan000&theme=transparent&hide_border=true&background=10002B&ring=C77DFF&fire=E0AAFF&currStreakLabel=E0AAFF&sideLabels=C77DFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=BFA2DB" width="95%"/>
+
+<br/>
+
+**🌸 Growing Every Day, One Commit at a Time 🌸**
 
 </div>
 
 ---
 
-## 🌙 MY CODING PHILOSOPHY
+<h2 align="center">🪻 A Little Note From Me 🪻</h2>
 
 <div align="center">
 
-### "Code with passion. Build with purpose."
+### "Bloom with Grace, Code with Passion." 💜
 
-*Dream it. Design it. Develop it.* 🖤
+<img src="./assets/momina-coding-girl.png" width="240" alt="Purple coding girl"/>
 
-<img src="./assets/momina-coding-girl.png" width="250" alt="Purple coding girl"/>
+**Thank you for visiting my little corner of GitHub!**
 
-### CONNECT WITH ME
+🌸 Dream • Create • Innovate 🌸
 
-<a href="https://www.linkedin.com/in/momina-haroon-3a406a342">LinkedIn</a> | <a href="https://github.com/MominaKhan000">GitHub</a> | <a href="mailto:haroonmomina09@gmail.com">Email</a>
+**Momina Haroon**
 
-**Made with 💜 by Momina Haroon**
+<a href="mailto:haroonmomina09@gmail.com">Let's Connect 💌</a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,50:5A189A,100:9D4EDD&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,40:3C096C,100:7B2CBF&height=120&section=footer"/>
+
+
 
