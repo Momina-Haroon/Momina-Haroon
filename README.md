@@ -9,7 +9,7 @@
 <img src="./assets/momina-coding-girl.png" width="80%" alt="Momina coding girl"/>
 
 <p align="center">
-  <a href="https://github.com/MominaKhan000">
+  <a href="https://github.com/Momina-Haroon">
     <img src="https://img.shields.io/badge/GitHub-B565A7?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/momina-haroon-3a406a342">
