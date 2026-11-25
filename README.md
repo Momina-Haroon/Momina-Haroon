@@ -5,10 +5,6 @@
 ### 🌷 Software Engineer | AI & ML Enthusiast
 
 <img src="./assets/momina-coding-girl.png" width="80%" alt="Momina coding girl"/>
-
-
-
-
 <a href="https://github.com/MominaKhan000">
 <img src="https://img.shields.io/badge/GitHub-BB86FC?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
