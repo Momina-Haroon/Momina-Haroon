@@ -91,7 +91,7 @@ Exploring intelligent AI agents that automate tasks using open-source language m
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=MominaKhan000&theme=default&hide_border=true&background=FFF5FC&ring=C77DFF&fire=E8A0BF&currStreakLabel=B565A7&sideLabels=9B72AA&currStreakNum=9B59B6&sideNums=B565A7&dates=B39DDB" width="95%"/>
+<img src="https://streak-stats.demolab.com?user=Momina-Haroon&theme=default&hide_border=true&background=FFF5FC&ring=C77DFF&fire=E8A0BF&currStreakLabel=B565A7&sideLabels=9B72AA&currStreakNum=9B59B6&sideNums=B565A7&dates=B39DDB" width="95%"/>
 
 </div>
 
