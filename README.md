@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=MominaKhan000&label=Profile%20Visitors&color=B565A7&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Momina-Haroon&label=Profile%20Visitors&color=B565A7&style=flat-square"/>
 
 </div>
 
@@ -83,11 +83,11 @@ Exploring intelligent AI agents that automate tasks using open-source language m
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MominaKhan000&show_icons=true&hide_border=true&bg_color=FFF5FC&title_color=B565A7&icon_color=C77DFF&text_color=765477&rank_icon=github" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Momina-Haroon&show_icons=true&hide_border=true&bg_color=FFF5FC&title_color=B565A7&icon_color=C77DFF&text_color=765477&rank_icon=github" width="95%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MominaKhan000&layout=compact&hide_border=true&bg_color=FFF5FC&title_color=B565A7&text_color=765477" width="75%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momina-Haroon&layout=compact&hide_border=true&bg_color=FFF5FC&title_color=B565A7&text_color=765477" width="75%"/>
 
 <br/><br/>
 
@@ -113,7 +113,7 @@ Thank you for visiting my little corner of GitHub! 🦋
 
 <br/>
 
-<a href="https://github.com/MominaKhan000">GitHub</a>
+<a href="https://github.com/Momina-Haroon">GitHub</a>
 &nbsp; • &nbsp;
 <a href="https://www.linkedin.com/in/momina-haroon-3a406a342">LinkedIn</a>
 &nbsp; • &nbsp;
